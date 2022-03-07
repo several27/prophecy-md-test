@@ -1,0 +1,19 @@
+name: github-project
+description: ''
+version: 0.0.1-SNAPSHOT
+author: maciej+execution-10@prophecy.io
+workflows:
+  workflows/test:
+    name: test
+    description: null
+    author: maciej+execution-10@prophecy.io
+    mode: batch
+    language: scala
+    createdAt: '2022-03-07 16:52:06'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+schedules: {}
+libraries: []
